@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Trout, Brown
+Distribution: 
+Yes! Oklahoma has two introduced species of trout — rainbows and browns, with rainbow trout being far more abundant. Rainbow trout are native to the cold streams west of the Continental Divide but have been introduced here and elsewhere. The brown, or German brown trout is originally from Europe. Browns are stocked periodically in the Mountain Fork River below Broken Bow Lake and in the Illinois River below Lake Tenkiller.  Rainbows are stocked approximately every two weeks at all eight of the state’s trout areas during the designated trout seasons.
+Large trout are not yet commonplace in Oklahoma trout areas although "bragging" size fish are occasionally landed.  When heading to one of Oklahoma's  trout areas be sure to brush up on the regulations.
 
-You can use the [editor on GitHub](https://github.com/bukin99/trout/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Description: 
+Oklahoma's two trout species can be easily identified.  First look at the side of the fish.  A brown trout will have orange and red spots, but a rainbow trout will be iridescent.  The brown trout will have few or no black spots on its tail and a creamy belly.  In comparison, the rainbow trout will have black spots on its tail and a white belly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Habitat: 
+ Trout tend to seek out and congregate in calm waters. So when fishing in swift waters, cast your bait above exposed boulders and let it drift down through the calm water on the downstream side of the outcropping.
 
-### Markdown
+Natural Food Sources: 
+Browns commonly feed on mayfly and caddisfly nymphs, grasshoppers, worms, crayfish and minnows. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Spawning: 
+There is no evidence of brown trout spawning in Oklahoma waters.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bukin99/trout/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Facts: 
+Brown trout have a natural ability to withstand warmer water temperatures and higher turbidity than rainbows. In a typical trout stream, rainbows tend to occupy faster moving water while browns can tolerate the more slack stretches. Even though they are hardier than rainbows, browns still require and prefer clear cold waters, and most actively feed when water temperatures range from 50 to 60 degrees.
+Because the brown trout feeds a great deal on the surface they have become very popular with fly fishermen. The stocky brown is a bulldog fighter when hooked, occasionally leaping out of the water. Fishing for browns is best on overcast days, in early morning before the sun is up, and at night. On bright days fish are more often found in the shade of undercut banks or overhanging vegetation.
+Browns commonly feed on mayfly and caddisfly nymphs, grasshoppers, worms, crayfish and minnows. The brown’s varied diet enables anglers to employ some of the same methods used to catch rainbows. However, at Oklahoma’s Mountain Fork River designated trout area, fishing in some areas is restricted to artificial flies and lures with barbless hooks only.
